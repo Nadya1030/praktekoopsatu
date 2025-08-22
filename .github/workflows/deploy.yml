@@ -21,4 +21,3 @@ jobs:
           git remote add hf https://Nadya1030:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/Nadya1030/praktekoop1
           git push -f hf main
 
-
