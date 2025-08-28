@@ -16,8 +16,8 @@ $waktu = date("Y-m-d H:i:s");
 </head>
 <body>
     <div class="container">
-        <h1>Selamat Datang di Website PHP!</h1>
-        <p>Halo <strong><?= htmlspecialchars($nama) ?></strong></p>
+        <h1>Selamat Datang di Website PHP Nadya!</h1>
+        <p>Halo ini adalah website untuk PBO<strong><?= htmlspecialchars($nama) ?></strong></p>
         <div class="box">
             <p>Waktu server: <code><?= $waktu ?></code></p>
             <p>Dijalankan di <strong>Docker</strong> di Hugging Face Spaces ✅</p>
