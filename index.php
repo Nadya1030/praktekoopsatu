@@ -24,5 +24,7 @@ $waktu = date("Y-m-d H:i:s");
         </div>
     </div>
      <a href="home.php">Go to Home Page</a>
+     <a href="tugas1.php">Go to Tugas1 Page</a>
+    
 </body>
 </html>
